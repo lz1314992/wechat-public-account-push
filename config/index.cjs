@@ -48,7 +48,7 @@ const USER_CONFIG = {
     birthdayMessage: true,
 
     // 学生课表
-    courseSchedule: false,
+    courseSchedule: true,
   },
 
   /** 每日一言 */
