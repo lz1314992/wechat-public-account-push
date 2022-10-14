@@ -172,7 +172,7 @@ const USER_CONFIG = {
       horoscopeDateType: '今日',
       openUrl: 'https://wangxinleo.cn',
       festivals: [],
-      customizedDateList: [keyword: 'love_day', date: '2021-11-14'],
+      customizedDateList: [{keyword:'love_day',date:'2021-11-14'}],
       courseSchedule: null
     }
     // 你可以不断按格式往下增加
