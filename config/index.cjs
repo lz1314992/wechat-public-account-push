@@ -193,7 +193,7 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2022-09-09' },
         // 退伍日
         { keyword: 'ex_day', date: '2022-09-10' }
-      ],
+      },
     {
       name: '老婆2',
       id: '',
